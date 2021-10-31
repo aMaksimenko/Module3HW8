@@ -15,4 +15,13 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="users.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="orders.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>

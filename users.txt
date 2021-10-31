@@ -1,0 +1,13 @@
+1;Igor;Male;18;
+2;Bob;Male;55;
+3;John;Male;23;
+4;Casey;Female;44;
+5;Illidan;Male;15;
+6;Mellory;Male;32;
+7;Nancy;Female;36;
+8;Sue;Female;40;
+9;Leon;Male;62;
+10;Petr;Male;27;
+11;Alexandr;Male;12;
+12;Bill;Male;24;
+13;John;Male;42;
